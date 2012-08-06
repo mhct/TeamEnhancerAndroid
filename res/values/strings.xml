@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="hello">Task Allocation for Large Teams</string>
+    <string name="app_name">TeamEnhancer</string>
+    <string name="coos_server">http://young-rain-5105.herokuapp.com/map2/</string>
+    <string name="reload">Reload</string>
+</resources>
